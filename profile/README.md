@@ -15,7 +15,7 @@ Behind the curtain, our volunteer tech team builds and maintains the digital inf
 
 ### 🤝 Volunteer With TAP Tech!
 
-TAP is **100% volunteer-powered**—and that includes our software engineers, cloud architects, and IT managers.
+TAP is **100% volunteer-powered** - and that includes our software engineers, cloud architects, and IT managers.
 
 Whether you're interested in web development (Python, Django, Wagtail, PHP), cloud & DevOps (GCP, Terraform, Docker, GitHub Actions), IT administration, or theatrical stage tech (audio, lighting, video), we'd love to have you on board!
 
