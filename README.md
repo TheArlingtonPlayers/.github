@@ -1,4 +1,4 @@
-# The Arlington Players (TAP)
+# TAP Engineering & Technology
 
 > _**Creative Community. Inspiring Theater.**_
 
@@ -7,7 +7,7 @@
 [![Website: thearlingtonplayers.org](https://img.shields.io/badge/Website-thearlingtonplayers.org-green.svg)](https://thearlingtonplayers.org)
 [![Instagram: @thearlingtonplayers](https://img.shields.io/badge/Instagram-@thearlingtonplayers-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/thearlingtonplayers)
 
-Founded in 1951, **The Arlington Players (TAP)** is an award-winning, all-volunteer 501(c)(3) nonprofit community theatre based in Arlington County, Virginia. Welcome to our engineering and technology organization!
+Welcome to the engineering and technology organization for **The Arlington Players (TAP)**! Founded in 1951, TAP is an award-winning, all-volunteer 501(c)(3) nonprofit community theatre based in Arlington County, Virginia.
 
 Behind the curtain, our volunteer tech team builds and maintains the digital infrastructure supporting TAP's ticketing, web presence, reimbursement systems, archives, and production operations.
 
